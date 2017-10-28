@@ -1,7 +1,7 @@
 # ABL_sugg
 Demonstration app with sqlite and pyqt, for an ERP extension about botanics. (french in there!) 
 
-Tab2 let you browse, from top to bottom, a mapping between the official Open Tree of Life taxonomy and the current ERP botanic articles.
+Tab2 lets you browse, from top to bottom, a mapping between the official Open Tree of Life taxonomy and the current ERP botanic articles.
 
 Tab3 consists of suggestions for botanic-data-model improvements of the ERP (atomicization, meta-caracterization).
 
